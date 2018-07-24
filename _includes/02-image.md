@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Airplane](https://upload.wikimedia.org/wikipedia/commons/3/3f/P-51_Mustang_edit1.jpg)
