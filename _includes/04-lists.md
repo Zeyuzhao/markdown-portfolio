@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# List of my favorite ice cream flavors
+
+* Vanilla
+* Mixed Fruit
+* Chocolate 
+* Mango
